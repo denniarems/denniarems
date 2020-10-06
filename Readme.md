@@ -43,9 +43,7 @@
 <br />
 <br />
 <hr />
-<img align="left" alt="Nestjs" width="50px" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" />
-<img align="left" alt="JS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="NodeJS" width="50px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
+More will add soon
 <br />
 <br />
 <hr />
