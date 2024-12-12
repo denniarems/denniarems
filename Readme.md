@@ -1,3 +1,11 @@
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/denniarems"
+  width="600"
+  height="300"
+/>
+</a>
+
 ### Hi there 👋
 # I am Dennis Sam
 ### a full stack blockchain developer
