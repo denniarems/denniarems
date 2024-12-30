@@ -9,7 +9,7 @@
 ### Hi there 👋
 # I am Dennis Sam
 ### a full stack blockchain developer
-
+(outdated portfolio)
 - 🔭 I’m currently looking for some interesting projects to work!
 - 🌱 I’m currently learning Everything i found on Google 🌟
 - 👯 I’m looking to collaborate on many Open Source Projects 💖
