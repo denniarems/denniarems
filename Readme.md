@@ -26,6 +26,12 @@
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
   </p>
+
+  <p align="center">
+    <a href="https://denniarems.youcanbook.me/">
+      <img src="https://img.shields.io/badge/Book_a_Call-34A853?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Book a Call" />
+    </a>
+  </p>
 </div>
 
 <br />
