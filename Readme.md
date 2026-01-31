@@ -90,14 +90,16 @@
 <br />
 <hr />
 
-### 📈 GitHub Stats
+### 🏆 GitHub Trophies & Stats
 
 <div align="center">
-  <a href="#stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=denniarems&count_private=true&show_icons=true&theme=radical" alt="Denny's Github Stats" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=denniarems&theme=radical&no-frame=true&margin-w=4" alt="Trophies" />
   </a>
   <br/>
-  <a href="#stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denniarems&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=denniarems&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denniarems&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
