@@ -93,5 +93,10 @@
 ### 🏆 GitHub Trophies & Stats
 
 <div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://trophy.ryglcloud.net/?username=denniarems&theme=radical&no-frame=true&margin-w=4" alt="Trophies" />
+  </a>
+  <br/>
+  <br/>
   <img src="https://streak-stats.demolab.com/?user=denniarems&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
