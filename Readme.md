@@ -93,13 +93,5 @@
 ### 🏆 GitHub Trophies & Stats
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=denniarems&theme=radical&no-frame=true&margin-w=4" alt="Trophies" />
-  </a>
-  <br/>
-  <br/>
   <img src="https://streak-stats.demolab.com/?user=denniarems&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denniarems&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
